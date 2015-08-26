@@ -1,1 +1,1 @@
-I made some HTML. I suspect, although I'm too ignorant to really know, that it is a sad and embarassing display.
+How many cocks does Ward have in his mouth? How long does he keep them there? What makes him move on to the next cock? These questions and more are the reason for my page. Also, learning how to code. 
