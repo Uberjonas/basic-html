@@ -1,2 +1,4 @@
 p {color: blue;}
 strong {color: red; text-decoration: underline;}
+#data-table-1 td:first-child {font-weight: bolder;}
+	#data-table-1 td:first-child + td {font-family: monospace;}
