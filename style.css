@@ -1,10 +1,13 @@
+/*ok most of this crap is throwaway stuff as i go through lessons.
+we'll get rid of it as soon as i get back to the real page*/
 #first {font-style: italic; color: blue}
 #second {color: blue;}
+#data-table-1 td:first-child {font-weight: bolder;}
+#data-table-1 td:first-child + td {font-family: monospace;}
+p {font: italic 100%/125% serif;}
 strong {color: red;}
 .carrot {color: orange}
 .spinach {color: green}
-#data-table-1 td:first-child {font-weight: bolder;}
-	#data-table-1 td:first-child + td {font-family: monospace;}
 a.naked:link, a.naked:visited {
 	padding: 5px 10px 5px 10px;
 	color: #fff;
@@ -16,7 +19,6 @@ a.naked:link, a.naked:visited {
 	font-style: italic;
 	text-decoration: none;
 }
-
 a.naked:hover, a.naked:focus, a.naked:active {
 	background-color: #999;
 }
