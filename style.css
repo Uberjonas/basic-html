@@ -4,7 +4,9 @@ we'll get rid of it as soon as i get back to the real page*/
 #second {color: blue;}
 #data-table-1 td:first-child {font-weight: bolder;}
 #data-table-1 td:first-child + td {font-family: monospace;}
+body {background: url("Blue-rule.png");}
 p {font: italic 100%/125% serif;}
+p:before {content: url("Yellow-pin.png")}
 strong {color: red;}
 .carrot {color: orange}
 .spinach {color: green}
