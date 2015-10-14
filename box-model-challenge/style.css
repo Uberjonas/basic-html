@@ -1,0 +1,27 @@
+body {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0;
+	width: 1000px;
+}
+.header {
+	background-color: #dfe6e9;
+	border-bottom: solid 3px #82b4bc;
+	margin: 0;
+}
+.header h1 {
+	margin: 0 auto 0;
+}
+.header h3 {
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	width: 1000px;
+	margin: auto;
+}
+img {
+	float: right;
+	width: 450px;
+	height: 600px;
+}
