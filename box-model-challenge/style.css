@@ -2,7 +2,7 @@
 	background-color: #dfe6e9;
 	border-bottom: solid 3px #82b4bc;
 	margin: auto;
-	height: 150px;
+	height: 160px;
 }
 .header h1 {
 	margin: 0 auto 0;
@@ -66,7 +66,7 @@ a.button {
 	background-color: #dfe6e9;
 	border-top: solid 3px #82b4bc;
 	margin: 0 auto 0;
-	height: 150px;
+	height: 160px;
 }
 .footer h5 {
 	padding-top: 70px;
@@ -76,3 +76,6 @@ a.button {
 body {
 	margin: 0;
 	padding: 0;
+	font-family: verdana;
+	font-size: 1em;
+}
