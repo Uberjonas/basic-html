@@ -6,7 +6,7 @@ body {
 }
 .header {
 	background-color: #559e83;
-	height: 200px;
+	height: 150px;
 	border-bottom: solid 5px #ae5a41;
 	margin-bottom: 20px;
 	margin-top: -20px;
@@ -20,25 +20,29 @@ body {
 }
 .middle {
 	text-align: justify;
-	width: 1000px;
-	margin: auto;
+	margin: 50px;
+	overflow: auto;
+	position: relative;
 }
-.midshitone {
+.midshit {
 	width: 500px;
-	margin: auto;
-	padding: 25px;
-	float: center;
+	padding: 0 25px 25px 320px;
+	float: left;
 }
-.midshittwo {
+.leftshit {
 	float: left;
 	width: 225px;
 	height: 450px;
+	padding: 25px;
+	position: fixed;
 }
-.midshitthree {
+.rightshit {
 	width: 225px;
 	height: 450px;
-	float: right;
+	float: left;
 	font-size: 3em;
+	padding: 0 25px 25px 880px;
+	position: fixed;
 
 }
 img {
@@ -47,7 +51,7 @@ img {
 }
 .footer {
 	background-color: #559e83;
-	height: 200px;
+	height: 150px;
 	border-top: solid 5px #ae5a41;
 	clear: both;
 }
