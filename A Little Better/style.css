@@ -1,6 +1,6 @@
 .nav a {
 	color: #d66868;
-	font-size: 11px;
+	font-size: 20px;
 	font-weight: bold;
 	font-family: 'Poiret One', cursive;
 	padding: 14px 10px 14px 10px;
@@ -9,6 +9,7 @@
 .jumbotron {
 	height: 500px;
 	background-image: url(http://cdn.desktopwallpapers4.me/wallpapers/abstract/1920x1080/1/3322-cracked-texture-1920x1080-abstract-wallpaper.jpg);
+	margin-bottom: 0;
 }
 .jumbotron h1 {
 	color: #fff;
@@ -30,4 +31,23 @@
 }
 .learn-more a {
 	color: #ffffff;
+}
+.nav li {
+	display: inline;
+}
+.jumbotron .container {
+	position: relative;
+	top: 100px;
+}
+.otherstuff {
+	background-color: #efefef;
+	border-bottom: 1px solid #dbdbdb;
+}
+.otherstuff h2 {
+	color: #393c3d;
+	font-size: 24px;
+}
+.otherstuff p {
+	font-size: 15px;
+	margin-bottom: 13px;
 }
